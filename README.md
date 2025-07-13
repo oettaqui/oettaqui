@@ -107,7 +107,7 @@ A passionate software engineer from 1337 School, specializing in full-stack deve
 ![Languages](https://skillicons.dev/icons?i=typescript,js,c,cpp,html,css&theme=dark)
 
 ### Frameworks & Tools
-![Frameworks](https://skillicons.dev/icons?i=react,tailwind,linux,docker&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=react,tailwind,git,linux,docker&theme=dark)
 
 ## 📊 GitHub Analytics
 
