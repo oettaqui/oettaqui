@@ -1,5 +1,5 @@
 
-# 🖥️ Oussama Ettaqui | Full Stack Developer
+# 🖥️ Oussama Ettaqui | Software Developer
 
 ## 📋 Table of Contents
 - [About Me](#-about-me)
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 ### Professional Summary
-A passionate software engineer from 1337 School, specializing in full-stack development with a strong focus on creating efficient, scalable solutions. Committed to continuous learning and technological innovation.
+A passionate software Developer from 1337 School, specializing in full-stack development with a strong focus on creating efficient, scalable solutions. Committed to continuous learning and technological innovation.
 
 ## 💻 Technical Skills
 
@@ -17,7 +17,7 @@ A passionate software engineer from 1337 School, specializing in full-stack deve
 ![Languages](https://skillicons.dev/icons?i=typescript,js,c,cpp,html,css&theme=dark)
 
 ### Frameworks & Tools
-![Frameworks](https://skillicons.dev/icons?i=react,tailwind,bootstrap,git,linux,mongodb,mysql,docker&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=react,tailwind,bootstrap,git,linux,mongodb,mysql,laravel,docker&theme=dark)
 
 ## 📊 GitHub Analytics
 
