@@ -20,11 +20,10 @@ A passionate software Developer from 1337 School, specializing in full-stack dev
 ![Backend](https://skillicons.dev/icons?i=nestjs,express,laravel&theme=dark)
 
 ### 🎨 Frontend
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark)
 
-### 🗄️ Databases
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+### 🗄️ Database
+![MySQL](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark)
 
 ### 🛠️ Tools & DevOps
 ![Tools](https://skillicons.dev/icons?i=git,docker,kubernetes,linux&theme=dark)
