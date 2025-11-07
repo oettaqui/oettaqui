@@ -13,11 +13,17 @@ A passionate software Developer from 1337 School, specializing in full-stack dev
 
 ## 💻 Technical Skills
 
-### Languages
+### 🧠 Languages
 ![Languages](https://skillicons.dev/icons?i=typescript,js,c,cpp,html,css&theme=dark)
 
-### Frameworks & Tools
-![Frameworks](https://skillicons.dev/icons?i=react,tailwind,git,linux,mysql,laravel,docker&theme=dark)
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=laravel,nestjs,express,mysql,mariadb&theme=dark)
+
+### 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,tailwind,NextJs&theme=dark)
+
+### 🛠️ Tools & DevOps
+![Tools](https://skillicons.dev/icons?i=git,docker,kubernetes,linux&theme=dark)
 
 ## 📊 GitHub Analytics
 
